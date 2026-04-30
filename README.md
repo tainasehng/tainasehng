@@ -1,12 +1,18 @@
 # Oi, eu sou a Tainá
 
-Sou estudante de Engenharia da Computação e técnica em Informática.
-Tenho mais interesse em desenvolvimento back-end e sistemas embarcados, principalmente na parte de lógica e funcionamento dos sistemas.
+Sou estudante de Engenharia da Computação e técnica em Informática, com interesse em back-end e sistemas embarcados.
 
-Aqui no GitHub eu coloco projetos da faculdade e alguns estudos práticos, usando principalmente C, C++ e Python.
+## Projetos
 
-Atualmente estou estudando estruturas de dados e começando a explorar APIs e conceitos de sistemas embarcados com mais profundidade.
+**Sistema de grafos (Python)**
+Simula rotas entre pontos usando algoritmos de grafos (como menor caminho).
 
-Busco uma oportunidade de estágio para ganhar experiência prática na área.
+**Campo minado (C)**
+Implementação completa do jogo em C, com foco em lógica e manipulação de memória.
+
+**Portal de notícias (Node.js + MySQL)**
+Aplicação web com back-end estruturado, renderização com EJS e integração com banco de dados.
+
+Busco estágio para ganhar experiência prática na área.
 
 * LinkedIn: https://www.linkedin.com/in/tainá-nascimento-sehn-garcia-1a5483341
