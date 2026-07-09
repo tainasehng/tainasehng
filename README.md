@@ -1,18 +1,33 @@
-# Oi, eu sou a Tainá
+# Olá, eu sou a Tainá! 👋
 
-Sou estudante de Engenharia da Computação e técnica em Informática, com interesse em back-end e sistemas embarcados.
+Engenheira de Computação em formação e técnica em Informática. Sou apaixonada por resolver problemas complexos através de código, com foco especial em **Back-end** e **Sistemas Embarcados**.
 
-## Projetos
+## 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Sistema de grafos (Python)**
-Simula rotas entre pontos usando algoritmos de grafos (como menor caminho).
+---
 
-**Campo minado (C)**
-Implementação completa do jogo em C, com foco em lógica e manipulação de memória.
+## 🚀 Projetos em Destaque
 
-**Portal de notícias (Node.js + MySQL)**
-Aplicação web com back-end estruturado, renderização com EJS e integração com banco de dados.
+### 🎡 [Sistema de Grafos Disney](https://github.com/tainasehng/sistema-grafos-disney)
+Simulação de rotas otimizadas entre atrações. 
+- **Techs:** Python, Algoritmo de Dijkstra, HeapQ.
+- **Destaque:** Implementação de fila de prioridade para máxima performance.
 
-Busco estágio para ganhar experiência prática na área.
+### 💣 [Campo Minado em C](https://github.com/tainasehng/campo-minado-c)
+O clássico jogo focado em manipulação direta de memória.
+- **Techs:** Linguagem C, Alocação Dinâmica.
+- **Destaque:** Gerenciamento rigoroso de ponteiros e matrizes dinâmicas.
 
-* LinkedIn: https://www.linkedin.com/in/tainá-nascimento-sehn-garcia-1a5483341
+### 📰 [Portal de Notícias Web](https://github.com/tainasehng/portal-noticias-web)
+Back-end completo para gerenciamento de conteúdo.
+- **Techs:** Node.js, Express, MySQL, EJS.
+- **Destaque:** Arquitetura MVC e proteção contra SQL Injection.
+
+---
+
+## 📫 Contato
+- **LinkedIn:** [tainá-nascimento-sehn-garcia](https://www.linkedin.com/in/tainá-nascimento-sehn-garcia-1a5483341)
