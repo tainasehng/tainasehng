@@ -17,7 +17,7 @@ Simulação de rotas otimizadas entre atrações.
 - **Techs:** Python, Algoritmo de Dijkstra, HeapQ.
 - **Destaque:** Implementação de fila de prioridade para máxima performance.
 
-### 💣 [Campo Minado em C](https://github.com/tainasehng/campo-minado-c)
+### 💣 [Campo Minado em C](https://github.com/tainasehng/campo-minado)
 O clássico jogo focado em manipulação direta de memória.
 - **Techs:** Linguagem C, Alocação Dinâmica.
 - **Destaque:** Gerenciamento rigoroso de ponteiros e matrizes dinâmicas.
